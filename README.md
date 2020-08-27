@@ -1,2 +1,2 @@
 # udemy-selenium
-Repository to Post thing learned in the training 
+Repository to Post things learned in the training 
